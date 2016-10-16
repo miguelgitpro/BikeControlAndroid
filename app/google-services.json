@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "803466347765",
+    "firebase_url": "https://bike-control-c8904.firebaseio.com",
+    "project_id": "bike-control-c8904",
+    "storage_bucket": "bike-control-c8904.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803466347765:android:47333aeb8ff367c2",
+        "android_client_info": {
+          "package_name": "cl.jprorivera.android.bikecontrol"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803466347765-t09nmo7kp4ahoefd2lnn212vjnlbvi06.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "cl.jprorivera.android.bikecontrol",
+            "certificate_hash": "C97DAE96BB9F84D5B9694F8A98CE3BEC44E9CD28"
+          }
+        },
+        {
+          "client_id": "803466347765-blvqn93enlj6c67u8esil0rmomdmc4f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFI13L4WHC2WcQQTeJNiIfnRUMJcQciw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803466347765-blvqn93enlj6c67u8esil0rmomdmc4f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803466347765:android:c1b1c5dceb661626",
+        "android_client_info": {
+          "package_name": "com.jrivera.bikecontrolandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "803466347765-7c4o4u9rhjbvb3sa96sd7a1c80e1r7v1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jrivera.bikecontrolandroid",
+            "certificate_hash": "C97DAE96BB9F84D5B9694F8A98CE3BEC44E9CD28"
+          }
+        },
+        {
+          "client_id": "803466347765-blvqn93enlj6c67u8esil0rmomdmc4f1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFI13L4WHC2WcQQTeJNiIfnRUMJcQciw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "803466347765-blvqn93enlj6c67u8esil0rmomdmc4f1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
